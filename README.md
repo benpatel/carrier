@@ -31,7 +31,7 @@ A simple HTML5 project demonstrating how to display responsive images using a se
 
 No installation or build tools are required.
 
-[name](https://github.com/benpatel/carrier)
+[https://github.com/benpatel/carrier](https://github.com/benpatel/carrier)
 
 Files
 index.html

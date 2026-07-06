@@ -7,6 +7,8 @@ A simple HTML5 project demonstrating how to display responsive images using a se
  - With more time, I would improve the design, add better accessibility, optimize images for faster loading, and test on more devices.
 
 
+
+
 **Project Structure**
  - index.html
     - README.md
@@ -14,6 +16,8 @@ A simple HTML5 project demonstrating how to display responsive images using a se
         - style.css
     - images
         - table.png
+
+
     
 **Features**
  - HTML5 boilerplate

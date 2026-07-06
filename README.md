@@ -1,10 +1,10 @@
-Responsive Image Demo
+**Responsive Image Demo**
 
 A simple HTML5 project demonstrating how to display responsive images using a separate CSS stylesheet.
 
 Project Structure
 
-**project**
+**Project**
  - index.html
     - README.md
     - css 

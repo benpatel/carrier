@@ -4,7 +4,7 @@ A simple HTML5 project demonstrating how to display responsive images using a se
 
 **Trade-offs & Future Improvements**
  - I kept the project simple and focused on the requirements.
- - With more time, I would improve the design, add better accessibility, optimize images for faster loading, and test on more devices.
+ - With more detail requirement, I would improve the design, add better accessibility, optimize images for faster loading.
 
 
 

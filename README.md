@@ -4,7 +4,7 @@ A simple HTML5 project demonstrating how to display responsive images using a se
 
 Project Structure
 
-project
+**project**
     - index.html
     - README.md
     - css 

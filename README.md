@@ -5,12 +5,12 @@ A simple HTML5 project demonstrating how to display responsive images using a se
 Project Structure
 
 project
-    index.html
-    README.md
-    css 
-        style.css
-    images
-        table.png
+    - index.html
+    - README.md
+    - css 
+        - style.css
+    - images
+        - table.png
     
 Features
  - HTML5 boilerplate

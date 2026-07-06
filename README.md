@@ -3,14 +3,14 @@ Responsive Image Demo
 A simple HTML5 project demonstrating how to display responsive images using a separate CSS stylesheet.
 
 Project Structure
-project/
-│
-├── index.html
-├── README.md
-├── css/
-│   └── style.css
-└── images/
-    └── table.png
+
+project
+    index.html
+    README.md
+    css 
+        style.css
+    images
+        table.png
     
 Features
  - HTML5 boilerplate

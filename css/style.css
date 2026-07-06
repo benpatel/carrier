@@ -1,0 +1,37 @@
+      /* ==========================
+           CSS Reset
+        ========================== */
+        *,
+        *::before,
+        *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            -webkit-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1;
+            background: #fff;
+        }
+
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            border: 0;
+        }
+
+        /* ==========================
+           Layout
+        ========================== */
+        
+        img.table_image {
+            width: 100%;
+            height: auto;
+        }

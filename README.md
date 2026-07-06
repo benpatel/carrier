@@ -2,9 +2,12 @@
 
 A simple HTML5 project demonstrating how to display responsive images using a separate CSS stylesheet.
 
-Project Structure
+**Trade-offs & Future Improvements**
+ - I kept the project simple and focused on the requirements.
+ - With more time, I would improve the design, add better accessibility, optimize images for faster loading, and test on more devices.
 
-**Project**
+
+**Project Structure**
  - index.html
     - README.md
     - css 

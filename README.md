@@ -6,9 +6,7 @@ Project Structure
 
 **project**
  - HTML5 boilerplate
- - CSS reset
- - Responsive images
-\index.html
+index.html
     - README.md
     - css 
         - style.css
